@@ -1,0 +1,12 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Antonio Carlos', '78996314785',1200.32, TIMESTAMP WITH TIME ZONE '1975-01-19T20:50:07.12345Z',1 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João da Silva', '12365489687',25698.21, TIMESTAMP WITH TIME ZONE '1999-11-11T20:50:07.12345Z',5 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Porcina', '14523698712',11000.00, TIMESTAMP WITH TIME ZONE '1980-02-10T20:50:07.12345Z',6 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ana Belle Killer', '14578963215',2654.12, TIMESTAMP WITH TIME ZONE '2020-07-07T20:50:07.12345Z',0 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Cat Kill Bill', '66698770701',789.36, TIMESTAMP WITH TIME ZONE '1960-09-09T20:50:07.12345Z',3 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcos Roberto', '14725836989',7841.25, TIMESTAMP WITH TIME ZONE '1989-04-01T20:50:07.12345Z',1 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luis Silva', '75315985264',2000.00, TIMESTAMP WITH TIME ZONE '1996-09-22T20:50:07.12345Z',0 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Mario Brothers', '12458796321',1500.00, TIMESTAMP WITH TIME ZONE '1979-12-13T20:50:07.12345Z',0 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luigi Marins', '14736985215',4586.98, TIMESTAMP WITH TIME ZONE '2000-10-21T20:50:07.12345Z',1 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Onami Barein', '78932145695',6000.01, TIMESTAMP WITH TIME ZONE '2001-04-13T20:50:07.12345Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Marcia Pilter', '15923748621',5456.87, TIMESTAMP WITH TIME ZONE '1998-02-11T20:50:07.12345Z',3 );
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Zelia Moraes', '25894316724',21000.00, TIMESTAMP WITH TIME ZONE '1987-01-19T20:50:07.12345Z', 4);
